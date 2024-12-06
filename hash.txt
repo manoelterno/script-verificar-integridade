@@ -1,0 +1,9 @@
+diretorioteste/arquivo1.txt:d41d8cd98f00b204e9800998ecf8427e:05/12/2024
+diretorioteste/arquivo2.txt:57b9ec772fce944df1e566f6ae07d130:05/12/2024
+diretorioteste/arquivo3.txt:d41d8cd98f00b204e9800998ecf8427e:05/12/2024
+diretorioteste/arquivo4.txt:d41d8cd98f00b204e9800998ecf8427e:05/12/2024
+diretorioteste/arquivo5.txt:d41d8cd98f00b204e9800998ecf8427e:05/12/2024
+diretorioteste/arquivo6.txt:d41d8cd98f00b204e9800998ecf8427e:05/12/2024
+diretorioteste/arquivo7.txt:ba2d2238f5ed6f97b3eb219be7258061:05/12/2024
+diretorioteste/arquivo8.txt:d41d8cd98f00b204e9800998ecf8427e:05/12/2024
+diretorioteste/arquivo9.txt:d41d8cd98f00b204e9800998ecf8427e:05/12/2024
